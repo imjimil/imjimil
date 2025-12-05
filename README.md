@@ -35,6 +35,7 @@ I'm a passionate **Software Developer** based in Montreal, QC, with a strong fou
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -43,6 +44,26 @@ I'm a passionate **Software Developer** based in Montreal, QC, with a strong fou
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
 ## 📚 Featured Projects
+
+### [Portfolio Watcher](https://github.com/imjimil/portfolio-watcher)
+
+A full-stack stock portfolio tracking application that helps you manage multiple investment portfolios with real-time price updates, performance analytics, and comprehensive transaction tracking. Built with modern web technologies and a focus on user experience.
+
+**Technologies:** Next.js 14, TypeScript, Tailwind CSS, Supabase, Recharts, Yahoo Finance API
+
+**Features:**
+
+- Multi-portfolio management with real-time value tracking
+- Transaction history with CSV import/export (Yahoo Finance format)
+- Interactive performance charts (1D, 5D, 1M, 6M, YTD, All)
+- Watchlist with price alerts and target price tracking
+- Asset allocation visualization
+- Dark mode and responsive mobile-first design
+- User authentication and secure data storage
+
+🔗 [Live Demo](https://portfolio-watcher-lemon.vercel.app/) | 📦 [GitHub Repository](https://github.com/imjimil/portfolio-watcher)
+
+---
 
 ### [PDF SaaS Portfolio App](https://github.com/imjimil/pdf-saas-portfolio-app)
 A comprehensive full-stack PDF processing SaaS application that provides a suite of document manipulation tools. Built with modern web technologies to deliver a seamless user experience.
