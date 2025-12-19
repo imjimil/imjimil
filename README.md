@@ -83,19 +83,19 @@ A comprehensive full-stack PDF processing SaaS application that provides a suite
 
 ---
 
-### [Graph Coloring Visualizer](https://github.com/imjimil/graphvisual)
-An interactive web-based visualization tool for studying online graph coloring algorithms. This application provides an empirical framework for analyzing the behavior and competitive ratios of various graph coloring algorithms, with a particular focus on First Fit and CBIP (Color-Based Incremental Processing) algorithms.
+## [TransDrop – Cross-Platform AirDrop-Style Sharing](https://transdrop.vercel.app/)
+A browser-based, cross-platform file and text sharing app that works between Windows, Android, and macOS – similar to AirDrop, but without OS lock-in. TransDrop focuses on a premium, minimal UX with robust WebRTC-based peer-to-peer transfers and smart auto-reconnect behavior.
 
-**Technologies:** React.js, D3.js, JavaScript
+**Technologies:** React (TypeScript), Vite, Tailwind CSS, Framer Motion, Node.js, Socket.io, WebRTC (simple-peer)
 
 **Features:**
-- Interactive graph visualization
-- Real-time algorithm performance analysis
-- Support for First Fit and CBIP algorithms
-- Dynamic graph structure manipulation
-- Algorithm complexity documentation
+- Direct peer-to-peer file and text transfer via WebRTC DataChannel (no server file storage)
+- Deterministic room codes and “Recent devices” with automatic reconnection
+- Device bubbles UI with click/right-click (desktop) and tap/long-press (mobile) interactions
+- Custom notifications for text and file receipts, with progress indicators for large transfers
+- Lightweight Node.js signaling server with in-memory room and subscription management
 
-📦 [GitHub Repository](https://github.com/imjimil/graphvisual)
+🔗 [Live Demo](https://transdrop.vercel.app/) | 📦 [GitHub Repository](https://github.com/imjimil/transdrop)
 
 ---
 
